@@ -3,8 +3,8 @@ import styles from "./page.module.css";
 
 export default function Home() {
   return (
-    <main className={}>
-    
+    <main className={styles.container}>
+      <h1>hello world</h1>
     </main>
   );
 }
